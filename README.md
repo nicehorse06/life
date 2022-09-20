@@ -1,7 +1,7 @@
 # Jimmy Life Website
 
 ## 簡介
-* Hi 我是🐴萌澤
+* 四年後的Googler
 
 ## 玩樂
 * todo
